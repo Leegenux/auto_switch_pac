@@ -6,7 +6,6 @@ NOT_IN_LIST='^(update_sorl.sh|tmp)$'
 head -n 5 $FILE_NAME >tmp
 for filename in * ; do
 	if [[ ! $filename =~ $NOT_IN_LIST ]] ; then
-		echo $filename
 		tail -n +6 $filename >>tmp
 		rm -v $filename
 	fi
