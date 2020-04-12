@@ -1,4 +1,5 @@
 *.1001freefonts.com
+*.1point3acres.com
 *.activatorkeys.org
 *.adobedtm.com
 *.airbrake.io
@@ -84,7 +85,9 @@
 *.ggpht.com
 *.githubassets.com
 *.github.com
+*.githubusercontent.com
 *.gitlab.com
+*.gmail.com
 *.gnu.org
 *.google-analytics.com
 *.google.com
@@ -100,6 +103,7 @@
 *.gstatic.com
 *.hegongshan.com
 *.hkinventory.com
+*.homeaffairs.gov.au
 *.ibruce.info
 *.idgesg.net
 *.imgur.com
@@ -141,6 +145,7 @@
 *.mouser.com
 *.mozilla.org
 *.msecnd.net
+*.narkive.com
 *.netdna-ssl.com
 *.newerannews.com
 *.nips.cc
@@ -168,6 +173,7 @@
 *.plugmedia.hk
 *.purechat.com
 *.pyimagesearch.com
+*.pymotw.com
 *.python.org
 *.raspi.tv
 *.raw.githubusercontent.com
@@ -187,6 +193,7 @@
 *.serverfault.com
 *.sharelatex-wiki-cdn-671420.c.cdn77.org
 *.skype.com
+*.slant.co
 *.slideshare.net
 *.smallpdf.com
 *.smartmontools.org

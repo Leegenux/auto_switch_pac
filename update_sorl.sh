@@ -8,7 +8,7 @@ NOT_IN_LIST="^($SCRIPT|$TMP)$"
 STRIP="tr -d '\r'"
 
 # append all wildcats into the $TMP
-tail -n +6 $FILE_NAME | $STRIP >$TMP
+cat $FILE_NAME | $STRIP >$TMP
 
 for filename in * ; do
 	if [[ ! $filename =~ $NOT_IN_LIST ]] ; then
