@@ -1,14 +1,23 @@
 #!/bin/bash
 
+# variables definition
 FILE_NAME='OmegaRules_auto_switch.sorl'
-NOT_IN_LIST='^(update_sorl.sh|tmp)$'
+TMP='_tmp'
+SCRIPT='update_sorl.sh'
+NOT_IN_LIST="^($SCRIPT|$TMP)$"
+STRIP="tr -d '\r'"
 
-head -n 5 $FILE_NAME >tmp
+# append all wildcats into the $TMP
+tail -n +6 $FILE_NAME | $STRIP >$TMP
+
 for filename in * ; do
 	if [[ ! $filename =~ $NOT_IN_LIST ]] ; then
-		tail -n +6 $filename >>tmp
+		tail -n +6 $filename | $STRIP >>$TMP        		# assume that the file is published by swithyomega
 		rm -v $filename
 	fi
 done
-cat tmp | uniq >$FILE_NAME
-rm tmp
+
+# sort the $TMP into $FILE_NAME
+sort $TMP | uniq >>$FILE_NAME
+rm $TMP
+
