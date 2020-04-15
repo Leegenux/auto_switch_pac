@@ -87,10 +87,12 @@
 *.geny.io
 *.genymotion.com
 *.geogig.org
+*.getclicky.com
 *.getpocket.com
 *.ggpht.com
 *.githubassets.com
 *.github.com
+*.github-production-release-asset-2e65be.s3.amazonaws.com
 *.githubusercontent.com
 *.gitlab.com
 *.gmail.com
