@@ -1,0 +1,41 @@
+[SwitchyOmega Conditions]
+; Require: SwitchyOmega >= 2.3.2
+; Date: 2020/4/10
+; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
+
+*.gstatic.com
+*.googleusercontent.com
+*.google.com
+*.brightcove.net
+*.cookielaw.org
+*.coveo.com
+*.xilinx.com
+*.nxp.com
+*.jiveon.com
+*.st.com
+*.google-analytics.com
+*.microsoft.com
+*.live.com
+*.maker.pro
+*.eevblog.com
+*.altium.com
+*.imgur.com
+*.scorecardresearch.com
+*.googletagservices.com
+*.gravatar.com
+*.sstatic.net
+*.stackexchange.com
+*.samacsys.com
+*.componentsearchengine.com
+*.mouser.com
+*.skype.com
+*.activatorkeys.org
+*.newerannews.com
+*.clipholtica.ml
+*.tinyurl.com
+*.crackpcsoft.net
+*.wp.com
+*.greasyfork.org
+*.cloudflare.com
+*.freedownloadmanager.org
+*.getpocket.com
