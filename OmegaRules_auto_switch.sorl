@@ -134,10 +134,12 @@
 *.linuxquestions.org
 *.linuxreviews.org
 *.linuxtopia.org
+*.lithium.com
 *.live.com
 *.liveperson.net
 *.lpsnmedia.net
 *.luarocks.org
+*.luminpdf.com
 *.lwks.com
 *.lwn.net
 *.machinelearningmastery.com
@@ -251,6 +253,7 @@
 *.winehq.org
 *.wordreference.com
 *.wp.com
+*.www.googleapis.com
 *.xilinx.com
 *.y2mate.com
 !*.youdao.com
