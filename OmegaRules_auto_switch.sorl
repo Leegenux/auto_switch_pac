@@ -37,6 +37,7 @@
 *.clipholtica.ml
 *.cloudconvert.com
 *.cloudflare.com
+*.cludo.com
 *.columbia.edu
 *.comap.com
 *.componentsearchengine.com
@@ -53,6 +54,8 @@
 *.csrankings.org
 *.cuhk.edu.hk
 *.cyberciti.biz
+*.d15ni2z53ptwz9.cloudfront.net
+*.d1t6urij26il7f.cloudfront.net
 *.d2jmvrsizmvf4x.cloudfront.net
 *.d2l.ai
 *.d2wy8f7a9ursnm.cloudfront.net
@@ -112,6 +115,9 @@
 *.hegongshan.com
 *.hkinventory.com
 *.homeaffairs.gov.au
+*.howtogeek.com
+*.hsforms.net
+*.hs-scripts.com
 *.ibruce.info
 *.idgesg.net
 *.imgur.com
@@ -130,6 +136,7 @@
 *.launchpadlibrarian.net
 *.launchpad.net
 *.licensebuttons.net
+*.linuxhint.com
 *.linuxize.com
 *.linuxquestions.org
 *.linuxreviews.org
@@ -160,6 +167,7 @@
 *.narkive.com
 *.netdna-ssl.com
 *.newerannews.com
+*.nextcloud.com
 *.nips.cc
 *.nixos.org
 *.northwestern.edu
@@ -173,6 +181,7 @@
 *.ohmyarch.github.io
 *.onenote.com
 *.openbenchmarking.org
+*.opendns.com
 *.opensuse.org
 *.osuosl.org
 *.ou.edu
@@ -201,6 +210,7 @@
 *.redditstatic.com
 *.redis.io
 *.render.githubusercontent.com
+*.s3-us-west-1.amazonaws.com
 *.samacsys.com
 *.scdn.co
 *.scipy.org
@@ -215,6 +225,7 @@
 *.smartmontools.org
 *.s-microsoft.com
 *.socratic.org
+*.sourcegraph.com
 *.sp-js-releases.s3.amazonaws.com
 *.spotofdata.com
 *.sstatic.net
@@ -233,6 +244,7 @@
 *.toronto.edu
 *.towardsdatascience.com
 *.tutorialspoint.com
+*.twimg.com
 *.twitcount.com
 *.twitter.com
 *.uber.com
@@ -243,6 +255,7 @@
 *.unixmen.com
 *.utteranc.es
 *.viki.com
+*.vimeo.com
 *.vivaldi.com
 *.vivaldi.net
 *.vmware.com
@@ -259,5 +272,6 @@
 !*.youdao.com
 *.youtube.com
 *.ytimg.com
+*.zdassets.com
 *.zendesk.com
 *.zugaina.org
