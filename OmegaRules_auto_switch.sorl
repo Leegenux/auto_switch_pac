@@ -2,7 +2,11 @@
 !*.126.net
 *.1point3acres.com
 *.activatorkeys.org
+*.adobeccstatic.com
+*.adobe.com
 *.adobedtm.com
+*.adobe.io
+*.adobeoobe.com
 *.airbrake.io
 *.ajax.googleapis.com
 *.akamaized.net
@@ -23,6 +27,8 @@
 *.avatars0.githubusercontent.com
 *.avatars1.githubusercontent.com
 *.avatars2.githubusercontent.com
+*.bbc.co.uk
+*.bbci.co.uk
 *.bootcss.com
 *.bootstrapcdn.com
 *.brianmadden.com
@@ -46,6 +52,7 @@
 *.cookielaw.org
 *.coolshell.cn
 *.cornell.edu
+*.corrector.co
 *.coursera.org
 *.coveo.com
 *.crackpcsoft.net
@@ -54,14 +61,8 @@
 *.csrankings.org
 *.cuhk.edu.hk
 *.cyberciti.biz
-*.d15ni2z53ptwz9.cloudfront.net
-*.d1t6urij26il7f.cloudfront.net
-*.d2jmvrsizmvf4x.cloudfront.net
+*.cloudfront.net
 *.d2l.ai
-*.d2wy8f7a9ursnm.cloudfront.net
-*.d2zv5rkii46miq.cloudfront.net
-*.d36jcksde1wxzq.cloudfront.net
-*.d3ow3r1jtq29si.cloudfront.net
 *.davheld.github.io
 *.debian.org
 *.disconnect.me
@@ -136,6 +137,7 @@
 *.launchpadlibrarian.net
 *.launchpad.net
 *.licensebuttons.net
+*.linearicons.com
 *.linuxhint.com
 *.linuxize.com
 *.linuxquestions.org
@@ -155,6 +157,7 @@
 *.mathjax.org
 *.mathworks.com
 *.medium.com
+*.megaup.net
 *.mellanox.com
 *.microchip.com
 *.microchipdirect.com
@@ -210,6 +213,7 @@
 *.redditstatic.com
 *.redis.io
 *.render.githubusercontent.com
+*.rodsbooks.com
 *.s3-us-west-1.amazonaws.com
 *.samacsys.com
 *.scdn.co
@@ -247,6 +251,7 @@
 *.twimg.com
 *.twitcount.com
 *.twitter.com
+*.typekit.net
 *.uber.com
 *.ucc.asn.au
 *.uji.es
@@ -260,6 +265,7 @@
 *.vivaldi.net
 *.vmware.com
 *.wcheinz.com
+*.whereby.com
 *.wikimedia.org
 *.wikipedia.org
 *.winaero.com
