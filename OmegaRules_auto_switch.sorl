@@ -13,6 +13,7 @@
 *.aldolipani.com
 *.alldatasheet.net
 *.alliancememory.com
+*.alpinelinux.org
 *.altium.com
 *.amazon.com
 *.ambrevar.xyz
@@ -43,6 +44,7 @@
 *.clipholtica.ml
 *.cloudconvert.com
 *.cloudflare.com
+*.cloudfront.net
 *.cludo.com
 *.columbia.edu
 *.comap.com
@@ -61,7 +63,6 @@
 *.csrankings.org
 *.cuhk.edu.hk
 *.cyberciti.biz
-*.cloudfront.net
 *.d2l.ai
 *.davheld.github.io
 *.debian.org
@@ -123,6 +124,7 @@
 *.idgesg.net
 *.imgur.com
 *.intel.com
+*.islideusa.com
 *.issi.com
 *.jedec.org
 *.jetbrains.com
@@ -138,6 +140,7 @@
 *.launchpad.net
 *.licensebuttons.net
 *.linearicons.com
+*.linux4one.com
 *.linuxhint.com
 *.linuxize.com
 *.linuxquestions.org
@@ -163,12 +166,17 @@
 *.microchipdirect.com
 *.micron.com
 *.microsoft.com
+*.minecraftforum.net
+*.minecraft.net
+*.mojang.com
 *.mouseflow.com
 *.mouser.com
 *.mozilla.org
 *.msecnd.net
+*.namemc.com
 *.narkive.com
 *.netdna-ssl.com
+*.network-n.com
 *.newerannews.com
 *.nextcloud.com
 *.nips.cc
@@ -200,7 +208,9 @@
 *.purechat.com
 *.pyimagesearch.com
 *.pymotw.com
+*.pythonanywhere.com
 *.python.org
+*.quoracdn.net
 *.quora.com
 *.raspi.tv
 *.raw.githubusercontent.com
@@ -217,6 +227,7 @@
 *.s3-us-west-1.amazonaws.com
 *.samacsys.com
 *.scdn.co
+*.scikit-image.org
 *.scipy.org
 *.scorecardresearch.com
 *.semaan.ca
@@ -230,8 +241,10 @@
 *.s-microsoft.com
 *.socratic.org
 *.sourcegraph.com
+*.spigotmc.org
 *.sp-js-releases.s3.amazonaws.com
 *.spotofdata.com
+*.sru.edu
 *.sstatic.net
 *.stackexchange.com
 *.stackoverflow.com
@@ -245,6 +258,7 @@
 *.timestamp.online
 *.tinyurl.com
 *.tongliang-liu.github.io
+*.topg.org
 *.toronto.edu
 *.towardsdatascience.com
 *.tutorialspoint.com
@@ -261,6 +275,7 @@
 *.utteranc.es
 *.viki.com
 *.vimeo.com
+*.vimsky.com
 *.vivaldi.com
 *.vivaldi.net
 *.vmware.com
