@@ -46,6 +46,7 @@
 *.cloudflare.com
 *.cloudfront.net
 *.cludo.com
+*.codecov.io
 *.columbia.edu
 *.comap.com
 *.componentsearchengine.com
@@ -59,6 +60,7 @@
 *.coveo.com
 *.crackpcsoft.net
 *.creativecommons.org
+*.crisp.chat
 *.csp.withgoogle.com
 *.csrankings.org
 *.cuhk.edu.hk
@@ -79,6 +81,7 @@
 *.embpcb.com
 *.ethz.ch
 *.facebook.com
+*.fandom.com
 *.fedoraforum.org
 *.findchips.com
 *.fontawesome.com
@@ -149,6 +152,7 @@
 *.lithium.com
 *.live.com
 *.liveperson.net
+*.loli.net
 *.lpsnmedia.net
 *.luarocks.org
 *.luminpdf.com
@@ -181,6 +185,7 @@
 *.nextcloud.com
 *.nips.cc
 *.nixos.org
+*.nocookie.net
 *.northwestern.edu
 *.nutgeek.com
 *.nvidia.cn
@@ -210,6 +215,7 @@
 *.pymotw.com
 *.pythonanywhere.com
 *.python.org
+*.pytorch.org
 *.quoracdn.net
 *.quora.com
 *.raspi.tv
@@ -233,6 +239,7 @@
 *.semaan.ca
 *.serverfault.com
 *.sharelatex-wiki-cdn-671420.c.cdn77.org
+*.shields.io
 *.skype.com
 *.slant.co
 *.slideshare.net
@@ -261,6 +268,7 @@
 *.topg.org
 *.toronto.edu
 *.towardsdatascience.com
+*.travis-ci.org
 *.tutorialspoint.com
 *.twimg.com
 *.twitcount.com
