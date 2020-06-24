@@ -16,6 +16,7 @@
 *.alliancememory.com
 *.alpinelinux.org
 *.altium.com
+*.amazonaws.com
 *.amazon.com
 *.ambrevar.xyz
 *.anu.edu.au
@@ -80,6 +81,7 @@
 *.d2l.ai
 *.datadoghq.com
 *.davheld.github.io
+*.dblp.org
 *.debian.org
 *.digitalocean.com
 *.digitaloceanspaces.com
@@ -88,6 +90,7 @@
 *.distrowatch.com
 *.djangoproject.com
 *.docker.com
+*.drhuang.com
 *.duckduckgo.com
 *.ebay.ie
 *.eevblog.com
@@ -123,14 +126,18 @@
 *.github.com
 *.github.io
 *.github-production-release-asset-2e65be.s3.amazonaws.com
+*.github-render.s3.amazonaws.com
 *.githubusercontent.com
 *.gitlab.com
 *.git-scm.com
 *.gmail.com
+*.gnome-look.org
 *.gnu.org
 *.google-analytics.com
+*.google.co.jp
 *.google.com
 *.google.com.hk
+*.google.com.sg
 *.googletagmanager.com
 *.googletagservices.com
 *.googleusercontent.com
@@ -141,6 +148,7 @@
 *.greasyfork.org
 *.gstatic.com
 *.hegongshan.com
+*.hk01.com
 *.hkinventory.com
 *.homeaffairs.gov.au
 *.howtogeek.com
@@ -251,6 +259,7 @@
 *.pkgs.org
 *.play0ad.com
 *.playmovie24.com
+*.pling.com
 *.plugmedia.hk
 *.plyr.io
 *.purechat.com
@@ -261,6 +270,7 @@
 *.pytorch.org
 *.quoracdn.net
 *.quora.com
+*.qxf2.com
 *.rafaelglater.com
 *.raspi.tv
 *.raw.githubusercontent.com
@@ -286,6 +296,7 @@
 *.sharelatex-wiki-cdn-671420.c.cdn77.org
 *.shields.io
 *.since1989.org
+!*.skype.com
 *.skype.com
 *.slant.co
 *.slideshare.net
@@ -297,6 +308,8 @@
 *.spigotmc.org
 *.sp-js-releases.s3.amazonaws.com
 *.spotofdata.com
+*.squarespace-cdn.com
+!*.squarespace.com
 *.sru.edu
 *.ssr.tools
 *.sstatic.net
@@ -304,6 +317,7 @@
 *.stackoverflow.com
 *.startpage.com
 *.st.com
+*.steamcommunity.com
 *.stefanbauer.me
 *.stripe.com
 *.superuser.com
@@ -320,6 +334,7 @@
 *.topg.org
 *.toronto.edu
 *.towardsdatascience.com
+*.trackjs.com
 *.travis-ci.org
 *.tutorialspoint.com
 *.twimg.com
@@ -348,6 +363,7 @@
 *.wikimedia.org
 *.wikipedia.org
 *.winaero.com
+*.windrunner.me
 *.winehq.org
 *.wordreference.com
 *.wp.com
