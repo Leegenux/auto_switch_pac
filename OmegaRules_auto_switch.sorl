@@ -102,6 +102,7 @@
 *.ethz.ch
 *.facebook.com
 *.fandom.com
+*.fastly-insights.com
 *.fbcdn.net
 *.fedoraforum.org
 *.findchips.com
@@ -171,6 +172,7 @@
 *.kernel.org
 *.khronos.org
 *.kite.com
+*.kleientertainment.com
 *.launchpadlibrarian.net
 *.launchpad.net
 *.lfai.foundation
@@ -285,6 +287,7 @@
 *.redis.io
 *.render.githubusercontent.com
 *.rodsbooks.com
+*.s3.amazonaws.com
 *.s3-us-west-1.amazonaws.com
 *.samacsys.com
 *.scdn.co
@@ -360,6 +363,8 @@
 *.wcheinz.com
 *.whereby.com
 *.whereby.dev
+*.wikia.com
+*.wikia-services.com
 *.wikimedia.org
 *.wikipedia.org
 *.winaero.com
