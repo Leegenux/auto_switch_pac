@@ -1,3 +1,4 @@
+*.01001000.xyz
 *.01.org
 *.1001freefonts.com
 !*.126.net
@@ -5,6 +6,7 @@
 *.8686c.com
 *.acer.com
 *.activatorkeys.org
+*.addthis.com
 *.adobeccstatic.com
 *.adobe.com
 *.adobedtm.com
@@ -14,10 +16,12 @@
 *.ajax.googleapis.com
 *.akamaized.net
 *.aldolipani.com
+*.algolianet.com
 *.alldatasheet.net
 *.alliancememory.com
 *.alpinelinux.org
 *.altium.com
+*.amazon-adsystem.com
 *.amazonaws.com
 *.amazon.com
 *.ambrevar.xyz
@@ -30,14 +34,18 @@
 *.arxiv.org
 *.askubuntu.com
 *.aspnetcdn.com
+*.atollic.com
 *.audiomack.com
 *.avatars0.githubusercontent.com
 *.avatars1.githubusercontent.com
 *.avatars2.githubusercontent.com
 *.avatars3.githubusercontent.com
 *.azure.com
+*.balena.io
+*.bayibo8.com
 *.bbc.co.uk
 *.bbci.co.uk
+*.best-microcontroller-projects.com
 *.blackmagicdesign.com
 *.blogger.com
 *.bootcss.com
@@ -53,6 +61,7 @@
 *.cateee.net
 *.cat.net
 *.cdninstagram.com
+*.cdnjs.com
 *.chainer.org
 *.chinagfw.org
 *.clearlinux.org
@@ -63,6 +72,7 @@
 *.cloudflare.com
 *.cloudfront.net
 *.cludo.com
+*.cnpmjs.org
 *.codecov.io
 *.columbia.edu
 *.comap.com
@@ -83,6 +93,7 @@
 *.cuhk.edu.hk
 *.cyberciti.biz
 *.d2l.ai
+*.daliansky.net
 *.datadoghq-browser-agent.com
 *.datadoghq.com
 *.daveeddy.com
@@ -101,6 +112,7 @@
 *.dropbox.com
 *.dropboxusercontent.com
 *.duckduckgo.com
+*.easyeda.com
 *.ebay.ie
 *.eevblog.com
 *.einverne.info
@@ -178,12 +190,16 @@
 *.islideusa.com
 *.issi.com
 *.itread01.com
+*.javbuff.top
 *.jedec.org
 *.jetbrains.com
 *.jiveon.com
 *.journaldev.com
 *.jquery.com
+*.jsdelivr.net
+*.jsqpro.link
 *.jsqpro.xyz
+*.jwpcdn.com
 *.kaggle.com
 *.kde.org
 *.kernel.org
@@ -193,6 +209,7 @@
 *.laowangblog.com
 *.launchpadlibrarian.net
 *.launchpad.net
+*.lcsc.com
 *.lfai.foundation
 *.licensebuttons.net
 *.linearicons.com
@@ -205,6 +222,7 @@
 *.linuxstory.org
 *.linuxtopia.org
 *.linuxuprising.com
+*.liquorix.net
 *.lithium.com
 *.live.com
 *.liveperson.net
@@ -234,6 +252,7 @@
 *.minecraftforum.net
 *.minecraft.net
 *.mit.edu
+*.modiciaos.cloud
 *.mojang.com
 *.mouseflow.com
 *.mouser.com
@@ -250,6 +269,7 @@
 *.nhentai.net
 *.nips.cc
 *.nixos.org
+*.njxzwh.com
 *.nocookie.net
 *.nodebb.org
 *.northwestern.edu
@@ -270,10 +290,13 @@
 *.opensource.com
 *.opensuse.org
 *.optimizely.com
+*.oracle.com
+*.org
 *.osuosl.org
 *.ou.edu
 *.overleaf.com
 *.pageclip.co
+*.paperswithcode.com
 *.parastorage.com
 *.pclinuxos.com
 *.pcmarket.com.hk
@@ -282,12 +305,16 @@
 *.photopea.com
 *.pinterest.com
 *.pkgs.org
+*.platformio.org
 *.play0ad.com
 *.playmovie24.com
 *.pling.com
 *.plugmedia.hk
 *.plyr.io
+*.porsche.cn
+*.porsche.com
 *.porticomedia.com
+*.psyma-rl.azurewebsites.net
 *.purechat.com
 *.pyimagesearch.com
 *.pymotw.com
@@ -299,6 +326,7 @@
 *.qxf2.com
 *.rafaelglater.com
 *.raspi.tv
+*.rawgit.com
 *.raw.githubusercontent.com
 *.readthedocs.io
 *.readthedocs.org
@@ -312,6 +340,7 @@
 *.redis.io
 *.render.githubusercontent.com
 *.rodsbooks.com
+*.rsms.me
 *.s3.amazonaws.com
 *.s3-us-west-1.amazonaws.com
 *.samacsys.com
@@ -319,6 +348,7 @@
 *.scikit-image.org
 *.scipy.org
 *.scorecardresearch.com
+*.securityonion.net
 *.semaan.ca
 *.serverfault.com
 *.sharelatex-wiki-cdn-671420.c.cdn77.org
@@ -331,7 +361,9 @@
 *.smallpdf.com
 *.smartmontools.org
 *.s-microsoft.com
+*.snapeda.com
 *.socratic.org
+*.sourceforge.net
 *.sourcegraph.com
 *.spigotmc.org
 *.sp-js-releases.s3.amazonaws.com
@@ -355,8 +387,11 @@
 *.tecmint.com
 *.telegram.org
 *.tensorflow.org
+*.tesla.cn
+*.texteditor.co
 *.thelinuxexp.com
 *.thequestionsnetwork.org
+*.thispointer.com
 *.tianyin.github.io
 *.timestamp.online
 *.tinyurl.com
