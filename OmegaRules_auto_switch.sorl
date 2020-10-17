@@ -105,6 +105,7 @@
 *.disconnect.me
 *.discourse-cdn.com
 *.disquscdn.com
+*.disqus.com
 *.distrowatch.com
 *.djangoproject.com
 *.docker.com
@@ -321,6 +322,7 @@
 *.pythonanywhere.com
 *.python.org
 *.pytorch.org
+*.quantamagazine.org
 *.quoracdn.net
 *.quora.com
 *.qxf2.com
