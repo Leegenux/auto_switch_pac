@@ -54,6 +54,7 @@
 *.brightcove.net
 *.brown.edu
 *.buffalo.edu
+*.cadmoremedia.com
 *.calculate-linux.org
 *.camo.githubusercontent.com
 *.canvasjs.com
@@ -72,6 +73,7 @@
 *.cloudflare.com
 *.cloudfront.net
 *.cludo.com
+!cn.overleaf.com
 *.cnpmjs.org
 *.codecov.io
 *.columbia.edu
@@ -237,12 +239,14 @@
 *.lwn.net
 *.machinelearningmastery.com
 *.maker.pro
+*.maketecheasier.com
 *.manjaro.org
 *.maps.googleapis.com
 *.mathjax.org
 *.mathworks.com
 *.medium.com
 *.medium.systems
+*.mega.nz
 *.megaup.net
 *.mellanox.com
 *.microchip.com
@@ -315,6 +319,7 @@
 *.porsche.cn
 *.porsche.com
 *.porticomedia.com
+*.practicaldev-herokuapp-com.freetls.fastly.net
 *.psyma-rl.azurewebsites.net
 *.purechat.com
 *.pyimagesearch.com
@@ -405,6 +410,7 @@
 *.towardsdatascience.com
 *.trackjs.com
 *.travis-ci.org
+*.tumblr.com
 *.tutorialspoint.com
 *.twimg.com
 *.twitcount.com
