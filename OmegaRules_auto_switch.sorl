@@ -114,6 +114,7 @@
 *.drhuang.com
 *.dropbox.com
 *.dropboxusercontent.com
+*.dtic.mil
 *.duckduckgo.com
 *.easyeda.com
 *.ebay.ie
@@ -176,6 +177,7 @@
 *.gravatar.com
 *.greasyfork.org
 *.gstatic.com
+*.haishan.me
 *.hegongshan.com
 *.hk01.com
 *.hkinventory.com
@@ -346,12 +348,14 @@
 *.redditstatic.com
 *.redis.io
 *.render.githubusercontent.com
+*.researchgate.net
 *.rodsbooks.com
 *.rsms.me
 *.s3.amazonaws.com
 *.s3-us-west-1.amazonaws.com
 *.samacsys.com
 *.scdn.co
+*.sciencedirectassets.com
 *.scikit-image.org
 *.scipy.org
 *.scorecardresearch.com
@@ -388,6 +392,7 @@
 *.stefanbauer.me
 *.stripe.com
 *.superuser.com
+*.system76.com
 *.tamu.edu
 *.taxamo.com
 *.techgage.com
@@ -423,6 +428,7 @@
 *.ucc.asn.au
 *.uji.es
 *.ulaval.ca
+*.umbc.edu
 *.umd.edu
 *.unequalbrake.com
 *.unixmen.com
