@@ -28,6 +28,7 @@
 *.ampproject.org
 *.anu.edu.au
 *.apachecn.org
+*.apache.org
 *.apmemory.com
 *.archlinux.org
 *.arm.com
@@ -79,6 +80,7 @@
 *.codecov.io
 *.columbia.edu
 *.comap.com
+*.comodo.com
 *.componentsearchengine.com
 *.computerworld.com
 *.content.googleapis.com
@@ -309,6 +311,7 @@
 *.parastorage.com
 *.pclinuxos.com
 *.pcmarket.com.hk
+*.penmypaper.com
 *.pentester.land
 *.percona.com
 *.photopea.com
@@ -382,6 +385,7 @@
 *.spigotmc.org
 *.sp-js-releases.s3.amazonaws.com
 *.spotofdata.com
+*.springer.com
 *.squarespace-cdn.com
 !*.squarespace.com
 *.sru.edu
@@ -456,6 +460,7 @@
 *.windrunner.me
 *.winehq.org
 *.wixstatic.com
+*.wolframcdn.com
 *.wordreference.com
 *.wp.com
 *.www.googleapis.com
