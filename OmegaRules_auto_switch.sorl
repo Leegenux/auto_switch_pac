@@ -12,6 +12,7 @@
 *.adobedtm.com
 *.adobe.io
 *.adobeoobe.com
+*.ads-twitter.com
 *.airbrake.io
 *.ajax.googleapis.com
 *.akamaized.net
@@ -35,6 +36,7 @@
 *.arm.com
 *.arxiv.org
 *.askubuntu.com
+*.asoftmurmur.com
 *.aspnetcdn.com
 *.atollic.com
 *.audiomack.com
@@ -129,6 +131,7 @@
 *.embedly.com
 *.embpcb.com
 *.ethz.ch
+*.ets.org
 *.facebook.com
 *.facebook.net
 *.fandom.com
@@ -167,6 +170,7 @@
 *.gnome-look.org
 *.gnome.org
 *.gnu.org
+*.googleadservices.com
 *.google-analytics.com
 *.google.co.jp
 *.google.com
@@ -187,6 +191,7 @@
 *.hk01.com
 *.hkinventory.com
 *.homeaffairs.gov.au
+*.hotjar.com
 *.howtogeek.com
 *.hsforms.net
 *.hs-scripts.com
@@ -202,6 +207,7 @@
 *.itsfoss.com
 *.javbuff.top
 *.jedec.org
+*.jekyllcn.com
 *.jetbrains.com
 *.jiveon.com
 *.journaldev.com
@@ -298,11 +304,13 @@
 *.olevod.com
 *.olevod.eu
 *.onenote.com
+*.oneplus.net
 *.onfido.com
 *.openbenchmarking.org
 *.opendns.com
 *.opensource.com
 *.opensuse.org
+*.opstatics.com
 *.optimizely.com
 *.oracle.com
 *.org
@@ -409,6 +417,7 @@
 *.techgage.com
 *.tecmint.com
 *.telegram.org
+*.telegra.ph
 *.tensorflow.org
 *.tesla.cn
 *.texteditor.co
@@ -424,6 +433,7 @@
 *.toronto.edu
 *.torproject.org
 *.towardsdatascience.com
+*.tracewind.net
 *.trackjs.com
 *.travis-ci.org
 *.tumblr.com
