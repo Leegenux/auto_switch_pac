@@ -50,12 +50,14 @@
 *.balena.io
 *.baseattackforce.com
 *.bayibo8.com
+*.bbc.com
 *.bbc.co.uk
 *.bbci.co.uk
 *.b-cdn.net
 *.beloved-brands.com
 *.best-microcontroller-projects.com
 *.blackmagicdesign.com
+*.blockfi.com
 *.blogger.com
 *.bootcss.com
 *.bootstrapcdn.com
@@ -65,6 +67,7 @@
 *.brightcove.net
 *.brown.edu
 *.buffalo.edu
+*.buzzorange.com
 *.cadmoremedia.com
 *.calculate-linux.org
 *.camo.githubusercontent.com
@@ -108,6 +111,7 @@
 *.cuhk.edu.hk
 *.cyberciti.biz
 *.d2l.ai
+*.dailymail.co.uk
 *.daliansky.net
 *.datadoghq-browser-agent.com
 *.datadoghq.com
@@ -146,6 +150,7 @@
 *.fastly-insights.com
 *.fbcdn.net
 *.fedoraforum.org
+ferenos.weebly.com
 *.findchips.com
 *.firebaseinstallations.googleapis.com
 *.fontawesome.com
@@ -209,6 +214,7 @@
 *.ibruce.info
 *.idgesg.net
 *.imgur.com
+*.instagram.com
 *.intel.com
 *.intertech.com
 *.isi.edu
@@ -241,6 +247,7 @@
 *.lfai.foundation
 *.licensebuttons.net
 *.linearicons.com
+*.line-scdn.net
 *.linux4one.com
 *.linuxfromscratch.org
 *.linuxhint.com
@@ -394,6 +401,8 @@
 *.securityonion.net
 *.semaan.ca
 *.serverfault.com
+*.setddg.com
+*.setn.com
 *.sharelatex-wiki-cdn-671420.c.cdn77.org
 *.shields.io
 *.since1989.org
@@ -411,6 +420,7 @@
 *.spigotmc.org
 *.sp-js-releases.s3.amazonaws.com
 *.spotofdata.com
+*.spreadshirt.com
 *.springer.com
 *.squarespace-cdn.com
 !*.squarespace.com
