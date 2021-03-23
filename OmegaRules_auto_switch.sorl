@@ -1,6 +1,7 @@
 *.01001000.xyz
 *.01.org
 *.1001freefonts.com
+*.10beasts.net
 !*.126.net
 *.1point3acres.com
 *.8686c.com
@@ -67,6 +68,7 @@
 *.brightcove.net
 *.brown.edu
 *.buffalo.edu
+*.buzzfeed.com
 *.buzzorange.com
 *.cadmoremedia.com
 *.calculate-linux.org
@@ -136,6 +138,7 @@
 *.duckduckgo.com
 *.easyeda.com
 *.ebay.ie
+*.edx.org
 *.eevblog.com
 *.einverne.info
 *.elnec.com
@@ -360,6 +363,7 @@ ferenos.weebly.com
 *.porsche.com
 *.porticomedia.com
 *.practicaldev-herokuapp-com.freetls.fastly.net
+*.psu.edu
 *.psyma-rl.azurewebsites.net
 *.purechat.com
 *.pyimagesearch.com
@@ -367,6 +371,7 @@ ferenos.weebly.com
 *.pythonanywhere.com
 *.python.org
 *.pytorch.org
+*.qiangwaikan.com
 *.quantamagazine.org
 *.quoracdn.net
 *.quora.com
@@ -405,6 +410,7 @@ ferenos.weebly.com
 *.setn.com
 *.sharelatex-wiki-cdn-671420.c.cdn77.org
 *.shields.io
+*.shtug.net
 *.since1989.org
 !*.skype.com
 *.skype.com
@@ -445,6 +451,7 @@ ferenos.weebly.com
 *.tensorflow.org
 *.tesla.cn
 *.texteditor.co
+*.theguardian.com
 *.thelinuxexp.com
 *.thequestionsnetwork.org
 *.thispointer.com
@@ -486,6 +493,7 @@ ferenos.weebly.com
 *.vivaldi.com
 *.vivaldi.net
 *.vmware.com
+*.vocus.cc
 *.vpngate.net
 *.w3schools.com
 *.wcheinz.com
@@ -498,7 +506,9 @@ ferenos.weebly.com
 *.winaero.com
 *.windrunner.me
 *.winehq.org
+*.wiris.com
 *.wixstatic.com
+*.wizcase.com
 *.wolframcdn.com
 *.wordreference.com
 *.wp.com
