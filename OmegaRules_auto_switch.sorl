@@ -105,6 +105,7 @@
 *.coursera.org
 *.coveo.com
 *.crackpcsoft.net
+*.craig.global.ssl.fastly.net
 *.creativecommons.org
 *.crisp.chat
 *.csp.withgoogle.com
@@ -112,7 +113,9 @@
 *.cuan.la
 *.cuhk.edu.hk
 *.cyberciti.biz
+*.d19a1mtic3m6gl.cloudfront.net
 *.d2l.ai
+*.d3njjcbhbojbot.cloudfront.net
 *.dailymail.co.uk
 *.daliansky.net
 *.datadoghq-browser-agent.com
@@ -145,6 +148,7 @@
 *.ely.by
 *.embedly.com
 *.embpcb.com
+*.encyclopedia.com
 *.ethz.ch
 *.ets.org
 *.facebook.com
@@ -220,6 +224,7 @@ ferenos.weebly.com
 *.instagram.com
 *.intel.com
 *.intertech.com
+*.ipfs.io
 *.isi.edu
 *.islideusa.com
 *.issi.com
@@ -280,6 +285,7 @@ ferenos.weebly.com
 *.maps.googleapis.com
 *.mathjax.org
 *.mathworks.com
+*.matrossi.blogspot.com
 *.mediaplex.com
 *.medium.com
 *.medium.systems
@@ -349,6 +355,7 @@ ferenos.weebly.com
 *.penmypaper.com
 *.pentester.land
 *.percona.com
+*.phncdn.com
 *.photopea.com
 *.pinterest.com
 *.pkgs.org
@@ -359,6 +366,7 @@ ferenos.weebly.com
 *.plugmedia.hk
 *.plyr.io
 *.polyfill.io
+*.pornhub.com
 *.porsche.cn
 *.porsche.com
 *.porticomedia.com
@@ -392,6 +400,7 @@ ferenos.weebly.com
 *.redis.io
 *.render.githubusercontent.com
 *.researchgate.net
+*.retroarch.com
 *.rodsbooks.com
 *.rsms.me
 *.s3.amazonaws.com
@@ -487,9 +496,11 @@ ferenos.weebly.com
 *.unixmen.com
 *.unpkg.com
 *.utteranc.es
+*.v2ex.com
 *.viki.com
 *.vimeo.com
 *.vimsky.com
+*.visualstudio.com
 *.vivaldi.com
 *.vivaldi.net
 *.vmware.com
