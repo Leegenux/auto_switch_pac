@@ -3,7 +3,14 @@
 *.1001freefonts.com
 *.10beasts.net
 !*.126.net
+*.1lib.domains
+*.1lib.limited
+*.1lib.net
+*.1lib.org
 *.1point3acres.com
+*.2lib.org
+*.3lib.net
+*.4lib.org
 *.8686c.com
 *.acer.com
 *.activatorkeys.org
@@ -19,6 +26,7 @@
 *.akamaized.net
 *.aldolipani.com
 *.algolianet.com
+*.alicdn.com
 *.alldatasheet.net
 *.allegiancetech.com
 *.alliancememory.com
@@ -36,6 +44,8 @@
 *.appinn.com
 *.archlinux.org
 *.arm.com
+*.art1lib.com
+*.art1lib.org
 *.arxiv.org
 *.askubuntu.com
 *.asoftmurmur.com
@@ -60,6 +70,11 @@
 *.blackmagicdesign.com
 *.blockfi.com
 *.blogger.com
+*.b-ok.as
+*.b-ok.asia
+*.b-ok.global
+*.booksc.me
+*.booksc.org
 *.bootcss.com
 *.bootstrapcdn.com
 *.boyeut.blogspot.com
@@ -165,6 +180,7 @@
 ferenos.weebly.com
 *.findchips.com
 *.firebaseinstallations.googleapis.com
+*.flickr.com
 *.fontawesome.com
 *.fonts.googleapis.com
 *.fossies.org
@@ -243,6 +259,7 @@ ferenos.weebly.com
 *.jetbrains.com
 *.jiveon.com
 *.journaldev.com
+*.jp1lib.org
 *.jquery.com
 *.jsdelivr.net
 *.jsqpro.link
@@ -278,6 +295,7 @@ ferenos.weebly.com
 *.live.com
 *.liveperson.net
 *.lmms.io
+*.lncld.net
 *.loli.net
 *.lpsnmedia.net
 *.luarocks.org
@@ -300,6 +318,7 @@ ferenos.weebly.com
 *.mega.nz
 *.megaup.net
 *.mellanox.com
+*.mengzelev.github.io
 *.microchip.com
 *.microchipdirect.com
 *.micron.com
@@ -387,6 +406,7 @@ ferenos.weebly.com
 *.pythonanywhere.com
 *.python.org
 *.pytorch.org
+*.qbox.me
 *.qiangwaikan.com
 *.quantamagazine.org
 *.quoracdn.net
@@ -428,7 +448,11 @@ ferenos.weebly.com
 *.sharelatex-wiki-cdn-671420.c.cdn77.org
 *.shields.io
 *.shtug.net
+*.shutterstock.com
 *.since1989.org
+*.singlelogin.app
+*.singlelogin.me
+*.singlelogin.org
 !*.skype.com
 *.skype.com
 *.slant.co
@@ -534,6 +558,7 @@ ferenos.weebly.com
 *.www.googleapis.com
 *.xilinx.com
 *.y2mate.com
+*.yadro.ru
 *.yahoo.com
 !*.youdao.com
 *.youtube.com
@@ -541,6 +566,7 @@ ferenos.weebly.com
 *.ytimg.com
 *.zdassets.com
 *.zendesk.com
+*.z-lib.org
 *.zoom.com.cn
 *.zoom.us
 *.zugaina.org
