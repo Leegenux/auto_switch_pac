@@ -144,6 +144,7 @@
 *.davheld.github.io
 *.dblp.org
 *.debian.org
+*.deepl.com
 *.digitalocean.com
 *.digitaloceanspaces.com
 *.disconnect.me
@@ -170,6 +171,7 @@
 *.embedly.com
 *.embpcb.com
 *.encyclopedia.com
+*.eslite.com
 *.ethz.ch
 *.ets.org
 *.facebook.com
@@ -201,6 +203,7 @@ ferenos.weebly.com
 *.ggpht.com
 *.gimyvod.com
 *.githubassets.com
+*.github.blog
 *.github.com
 *.github.io
 *.github-production-release-asset-2e65be.s3.amazonaws.com
@@ -493,6 +496,8 @@ ferenos.weebly.com
 *.taxamo.com
 *.techgage.com
 *.tecmint.com
+*.teejeetech.com
+*.teejeetech.in
 *.telegram.org
 *.telegra.ph
 *.tensorflow.org
