@@ -73,6 +73,8 @@
 *.avatars1.githubusercontent.com
 *.avatars2.githubusercontent.com
 *.avatars3.githubusercontent.com
+*.avcdn.net
+*.avg.com
 *.azure.com
 *.azureedge.net
 *.b-cdn.net
@@ -90,6 +92,7 @@
 *.beloved-brands.com
 *.best-microcontroller-projects.com
 *.bg1lib.org
+*.bit.ly
 *.blackmagicdesign.com
 *.blockfi.com
 *.blogger.com
@@ -116,6 +119,7 @@
 *.castle.io
 *.cat.net
 *.cateee.net
+*.ccleaner.com
 *.cdninstagram.com
 *.cdnjs.com
 *.cfrgtkky.blogspot.com
@@ -279,6 +283,7 @@
 *.hs-analytics.net
 *.hs-scripts.com
 *.hsforms.net
+*.hubspotusercontent40.net
 *.ibruce.info
 *.idgesg.net
 *.imgur.com
@@ -359,9 +364,11 @@
 *.mathjax.org
 *.mathworks.com
 *.matrossi.blogspot.com
+*.medallia.eu
 *.mediaplex.com
 *.medium.com
 *.medium.systems
+*.mega.co.nz
 *.mega.nz
 *.megaup.net
 *.mellanox.com
@@ -469,6 +476,7 @@
 *.qxf2.com
 *.rafaelglater.com
 *.raspi.tv
+*.ravenjs.com
 *.raw.githubusercontent.com
 *.rawgit.com
 *.readthedocs.io
