@@ -35,6 +35,7 @@
 *.ads-twitter.com
 *.airbrake.io
 *.ajax.googleapis.com
+*.aka.ms
 *.akamaihd.net
 *.akamaized.net
 *.aldolipani.com
@@ -45,6 +46,7 @@
 *.alliancememory.com
 *.allinfa.com
 *.alpinelinux.org
+*.alternativeto.net
 *.altium.com
 *.amazon-adsystem.com
 *.amazon.com
@@ -93,6 +95,7 @@
 *.best-microcontroller-projects.com
 *.bg1lib.org
 *.bit.ly
+*.bitcomet.com
 *.blackmagicdesign.com
 *.blockfi.com
 *.blogger.com
@@ -126,6 +129,7 @@
 *.chainer.org
 *.chegg.com
 *.cheggcdn.com
+*.chenjianhui.site
 *.chinagfw.org
 *.citationmachine.net
 *.cl1lib.org
@@ -142,11 +146,13 @@
 *.codecov.io
 *.columbia.edu
 *.comap.com
+*.cometbbs.com
 *.comodo.com
 *.componentsearchengine.com
 *.computerworld.com
 *.consensu.org
 *.content.googleapis.com
+*.cookiebot.com
 *.cookielaw.org
 *.coolshell.cn
 *.cornell.edu
@@ -169,6 +175,7 @@
 *.daliansky.net
 *.datadoghq-browser-agent.com
 *.datadoghq.com
+*.daum.net
 *.daveeddy.com
 *.davheld.github.io
 *.dblp.org
@@ -272,6 +279,7 @@
 *.haishan.me
 *.hbo.com
 *.hegongshan.com
+*.hentaibar.com
 *.hk01.com
 *.hk1lib.org
 *.hkinventory.com
@@ -286,6 +294,9 @@
 *.hubspotusercontent40.net
 *.ibruce.info
 *.idgesg.net
+*.illinois.edu
+*.iloveimg.com
+*.imag.fr
 *.imgur.com
 *.instagram.com
 *.intel.com
@@ -359,6 +370,7 @@
 *.machinelearningmastery.com
 *.maker.pro
 *.maketecheasier.com
+*.manictime.com
 *.manjaro.org
 *.maps.googleapis.com
 *.mathjax.org
@@ -409,6 +421,7 @@
 *.nvidia.cn
 *.nvidia.com
 *.nxp.com
+*.nyt.com
 *.office.com
 *.office.net
 *.office365.com
@@ -452,6 +465,7 @@
 *.pling.com
 *.plugmedia.hk
 *.plyr.io
+*.polito.it
 *.polyfill.io
 *.pornhub.com
 *.pornzog.com
@@ -493,6 +507,7 @@
 *.research.google
 *.researchgate.net
 *.retroarch.com
+*.revouninstaller.com
 *.rodsbooks.com
 *.rsms.me
 *.ru1lib.org
@@ -514,6 +529,7 @@
 *.setn.com
 *.sg1lib.org
 *.sharelatex-wiki-cdn-671420.c.cdn77.org
+*.sharif.edu
 *.shields.io
 *.shtug.net
 *.shutterstock.com
@@ -522,6 +538,7 @@
 *.singlelogin.loc
 *.singlelogin.me
 *.singlelogin.org
+*.skylinewebcams.com
 *.skype.com
 *.slant.co
 *.slideshare.net
@@ -544,7 +561,9 @@
 *.stackexchange.com
 *.stackoverflow.com
 *.startpage.com
+*.statisticshowto.com
 *.steamcommunity.com
+*.steamstatic.com
 *.stefanbauer.me
 *.stripe.com
 *.superuser.com
@@ -568,6 +587,7 @@
 *.thispointer.com
 *.threatinfo.net
 *.tianyin.github.io
+*.time.com
 *.timestamp.online
 *.tinyurl.com
 *.tongliang-liu.github.io
@@ -612,6 +632,7 @@
 *.vmware.com
 *.vn1lib.org
 *.vocus.cc
+*.vpngate.jp
 *.vpngate.net
 *.vpnmentor.com
 *.w3schools.com
@@ -620,6 +641,7 @@
 *.whereby.dev
 *.wikia-services.com
 *.wikia.com
+*.wikihow.com
 *.wikimedia.org
 *.wikipedia.org
 *.winaero.com
