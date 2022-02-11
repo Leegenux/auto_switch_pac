@@ -1,4 +1,5 @@
 !*.126.net
+!*.mathpix.com
 !*.skype.com
 !*.squarespace.com
 !*.youdao.com
@@ -60,6 +61,7 @@
 *.anu.edu.au
 *.apache.org
 *.apachecn.org
+*.apkpure.com
 *.apmemory.com
 *.appinn.com
 *.ar1lib.org
@@ -121,6 +123,7 @@
 *.ca1lib.org
 *.cadmoremedia.com
 *.calculate-linux.org
+*.caltech.edu
 *.camo.githubusercontent.com
 *.canvasjs.com
 *.castle.io
@@ -143,6 +146,7 @@
 *.cloud-cdn-digitalocean-com.global.ssl.fastly.net
 *.cloudconvert.com
 *.cloudflare.com
+*.cloudflareinsights.com
 *.cloudfront.net
 *.cludo.com
 *.cn1lib.org
@@ -184,6 +188,7 @@
 *.daveeddy.com
 *.davheld.github.io
 *.dblp.org
+*.ddrk.me
 *.de1lib.org
 *.debian.org
 *.deepl.com
@@ -216,6 +221,7 @@
 *.embpcb.com
 *.encyclopedia.com
 *.epicgames.com
+*.epochtimes.com
 *.eslite.com
 *.ethz.ch
 *.ets.org
@@ -226,6 +232,7 @@
 *.fastly-insights.com
 *.fbcdn.net
 *.fedoraforum.org
+*.filerun.com
 *.findchips.com
 *.firebaseinstallations.googleapis.com
 *.flickr.com
@@ -281,8 +288,10 @@
 *.greasyfork.org
 *.gsma.com
 *.gstatic.com
+*.guru99.com
 *.haishan.me
 *.hbo.com
+*.hcaptcha.com
 *.hegongshan.com
 *.hentaibar.com
 *.hk01.com
@@ -303,6 +312,7 @@
 *.iloveimg.com
 *.imag.fr
 *.imgur.com
+*.infoworld.com
 *.instagram.com
 *.intel.com
 *.intertech.com
@@ -312,8 +322,10 @@
 *.isi.edu
 *.islideusa.com
 *.issi.com
+*.istockphoto.com
 *.itread01.com
 *.itsfoss.com
+*.iyfbodn.com
 *.javbuff.top
 *.jedec.org
 *.jekyllcn.com
@@ -326,6 +338,7 @@
 *.jsqpro.link
 *.jsqpro.online
 *.jsqpro.xyz
+*.jueshifan.com
 *.jwpcdn.com
 *.jwplayer.com
 *.kaggle.com
@@ -333,6 +346,7 @@
 *.kernel.org
 *.khronos.org
 *.kite.com
+*.kle.jp
 *.kleientertainment.com
 *.kp1lib.org
 *.kr1lib.org
@@ -532,6 +546,7 @@
 *.secureservercdn.net
 *.securityonion.net
 *.semaan.ca
+*.sentry-cdn.com
 *.serverfault.com
 *.setddg.com
 *.setn.com
@@ -552,6 +567,7 @@
 *.slideshare.net
 *.smallpdf.com
 *.smartmontools.org
+*.snapchat.com
 *.snapeda.com
 *.socratic.org
 *.sourceforge.net
@@ -573,11 +589,14 @@
 *.statisticshowto.com
 *.steamcommunity.com
 *.steamstatic.com
+*.steemit.com
 *.stefanbauer.me
 *.stripe.com
+*.suo.tw
 *.superuser.com
 *.system76.com
 *.t.me
+*.tailscale.com
 *.tamu.edu
 *.taxamo.com
 *.tdesktop.com
@@ -596,6 +615,7 @@
 *.thispointer.com
 *.threatinfo.net
 *.tianyin.github.io
+*.tiktok.com
 *.time.com
 *.timestamp.online
 *.tinyurl.com
@@ -630,8 +650,10 @@
 *.unixmen.com
 *.unpkg.com
 *.unrealengine.com
+*.unsplash.com
 *.utteranc.es
 *.v2ex.com
+*.v2ray.com
 *.viki.com
 *.vimeo.com
 *.vimsky.com
@@ -668,6 +690,8 @@
 *.y2mate.com
 *.yadro.ru
 *.yahoo.com
+*.yimg.com
+*.youporn.com
 *.youtube-nocookie.com
 *.youtube.com
 *.ytimg.com
@@ -675,6 +699,7 @@
 *.za1lib.org
 *.zdassets.com
 *.zendesk.com
+*.zerotier.com
 *.zlibcdn.com
 *.zoom.com.cn
 *.zoom.us
