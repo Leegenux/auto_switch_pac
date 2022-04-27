@@ -46,6 +46,7 @@
 *.aka.ms
 *.akamaihd.net
 *.akamaized.net
+*.akinator.com
 *.aldolipani.com
 *.algolianet.com
 *.alicdn.com
@@ -95,6 +96,7 @@
 *.b-ok.cc
 *.b-ok.global
 *.balena.io
+*.barnimages.com
 *.baseattackforce.com
 *.bayibo8.com
 *.bbc.co.uk
@@ -147,6 +149,7 @@
 *.citationmachine.net
 *.cl1lib.org
 *.clearlinux.org
+*.cleverpdf.com
 *.clickdimensions.com
 *.clipholtica.ml
 *.cloud-cdn-digitalocean-com.global.ssl.fastly.net
@@ -202,6 +205,7 @@
 *.digitalocean.com
 *.digitaloceanspaces.com
 *.disconnect.me
+*.discord.com
 *.discourse-cdn.com
 *.disqus.com
 *.disquscdn.com
@@ -294,6 +298,7 @@
 *.googleusercontent.com
 *.googlevideo.com
 *.goudie.in
+*.gradebuddy.com
 *.grammarly.com
 *.grammarly.io
 *.gravatar.com
@@ -330,6 +335,7 @@
 *.instagram.com
 *.intel.com
 *.intercom.io
+*.intercomcdn.com
 *.intertech.com
 *.iobit.com
 *.ipfs.io
@@ -403,6 +409,7 @@
 *.lwks.com
 *.lwn.net
 *.machinelearningmastery.com
+*.mailerlite.com
 *.maker.pro
 *.maketecheasier.com
 *.manictime.com
@@ -489,6 +496,7 @@
 *.pb1lib.org
 *.pclinuxos.com
 *.pcmarket.com.hk
+*.pdf.io
 *.penmypaper.com
 *.pentester.land
 *.percona.com
@@ -722,6 +730,8 @@
 *.wp.com
 *.www.googleapis.com
 *.xilinx.com
+*.xn--jprs12i.com
+*.xn--xhq59sifv02dwihz37d.com
 *.xvideos.com
 *.y2mate.com
 *.yadro.ru
