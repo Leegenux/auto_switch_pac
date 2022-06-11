@@ -90,6 +90,7 @@
 *.atollic.com
 *.au1lib.org
 *.audiomack.com
+*.auth0.com
 *.avatars0.githubusercontent.com
 *.avatars1.githubusercontent.com
 *.avatars2.githubusercontent.com
@@ -301,6 +302,7 @@
 *.gnome.org
 *.gnu.org
 *.google-analytics.com
+*.google.ca
 *.google.co.id
 *.google.co.jp
 *.google.com
@@ -336,8 +338,14 @@
 *.hotstarext.com
 *.howtogeek.com
 *.hs-analytics.net
+*.hs-banner.com
 *.hs-scripts.com
+*.hscollectedforms.net
+*.hsforms.com
 *.hsforms.net
+*.hubspot.com
+*.hubspot.net
+*.hubspotusercontent-na1.net
 *.hubspotusercontent40.net
 *.ibruce.info
 *.idgesg.net
@@ -469,6 +477,7 @@
 *.namemc.com
 *.narkive.com
 *.nc.me
+*.netapp.com
 *.netdna-ssl.com
 *.network-n.com
 *.newerannews.com
@@ -496,6 +505,7 @@
 *.ohmyarch.github.io
 *.olevod.com
 *.olevod.eu
+*.omappapi.com
 *.omatomeloanhikaku.com
 *.onenote.com
 *.oneplus.net
@@ -617,6 +627,7 @@
 *.sg1lib.org
 *.sharelatex-wiki-cdn-671420.c.cdn77.org
 *.sharif.edu
+*.sharkychina.com
 *.shields.io
 *.shtug.net
 *.shutterstock.com
@@ -669,6 +680,7 @@
 *.tdesktop.com
 *.techgage.com
 *.techopedia.com
+*.techoverflow.net
 *.tecmint.com
 *.teejeetech.com
 *.teejeetech.in
@@ -743,6 +755,7 @@
 *.vpnmentor.com
 *.vscode.dev
 *.w3schools.com
+*.wallmama.com
 *.wcheinz.com
 *.webtorrent.io
 *.whereby.com
@@ -756,6 +769,7 @@
 *.windrunner.me
 *.windscups.com
 *.winehq.org
+*.wireguard.com
 *.wiris.com
 *.wixstatic.com
 *.wizards.com
