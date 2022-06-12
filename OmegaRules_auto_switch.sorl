@@ -97,8 +97,10 @@
 *.beloved-brands.com
 *.best-microcontroller-projects.com
 *.bg1lib.org
+*.binstar-static-prod.s3.amazonaws.com
 *.bitcomet.com
 *.bit.ly
+*.bitwarden.com
 *.blackmagicdesign.com
 *.blockfi.com
 *.blogger.com
@@ -141,6 +143,7 @@
 *.chenjianhui.site
 *.chickenkiller.com
 *.chinagfw.org
+*.cisco.com
 *.citationmachine.net
 *.cl1lib.org
 *.clearlinux.org
@@ -185,6 +188,7 @@
 *.cyberciti.biz
 *.d19a1mtic3m6gl.cloudfront.net
 *.d2l.ai
+*.d3e54v103j8qbb.cloudfront.net
 *.d3njjcbhbojbot.cloudfront.net
 *.dailymail.co.uk
 *.daliansky.net
@@ -233,6 +237,7 @@
 *.ethz.ch
 *.ets.org
 *.ettus.com
+*.eurecom.fr
 *.facebook.com
 *.facebook.net
 *.fandom.com
@@ -254,6 +259,7 @@ ferenos.weebly.com
 *.freebsd.org
 *.freedownloadmanager.org
 *.freenode.net
+*.freenom.com
 *.fritz.ai
 *.futurestud.io
 *.fygul.blogspot.com
@@ -282,6 +288,7 @@ ferenos.weebly.com
 *.gnome-look.org
 *.gnome.org
 *.gnu.org
+*.go.dev
 *.googleadservices.com
 *.google-analytics.com
 *.google.co.id
@@ -351,6 +358,7 @@ ferenos.weebly.com
 *.jekyllcn.com
 *.jetbrains.com
 *.jiveon.com
+*.jnn-pa.googleapis.com
 *.journaldev.com
 *.jp1lib.org
 *.jquery.com
@@ -359,6 +367,7 @@ ferenos.weebly.com
 *.jsqpro.online
 *.jsqpro.xyz
 *.jueshifan.com
+*.justmysocks.net
 *.jwpcdn.com
 *.jwplayer.com
 *.kaggle.com
@@ -397,6 +406,7 @@ ferenos.weebly.com
 *.lk1lib.org
 *.lmms.io
 *.lncld.net
+*.loggly.com
 *.loginzlib2vrak5zzpcocc3ouizykn6k5qecgj2tzlnab5wcbqhembyd.onion
 *.loli.net
 *.lpsnmedia.net
@@ -459,6 +469,8 @@ ferenos.weebly.com
 *.nocookie.net
 *.nodebb.org
 *.northwestern.edu
+*.notion.site
+*.notion.so
 *.nutgeek.com
 *.nuuvem.com
 *.nvidia.cn
@@ -487,6 +499,7 @@ ferenos.weebly.com
 *.optimole.com
 *.oracle.com
 *.org
+*.osano.com
 *.osuosl.org
 *.ou.edu
 *.overleaf.com
@@ -590,6 +603,7 @@ ferenos.weebly.com
 *.shields.io
 *.shtug.net
 *.shutterstock.com
+*.simplified.guide
 *.since1989.org
 *.singlelogin.app
 *.singlelogin.loc
@@ -617,6 +631,7 @@ ferenos.weebly.com
 *.squarespace-cdn.com
 !*.squarespace.com
 *.sru.edu
+*.sshwy.name
 *.ssr.tools
 *.sstatic.net
 *.stackexchange.com
@@ -624,6 +639,7 @@ ferenos.weebly.com
 *.stanford.edu
 *.startpage.com
 *.statisticshowto.com
+*.statsig.com
 *.st.com
 *.steamcommunity.com
 *.steampowered.com
@@ -641,6 +657,7 @@ ferenos.weebly.com
 *.tdesktop.com
 *.techgage.com
 *.tecmint.com
+*.teddysun.com
 *.teejeetech.com
 *.teejeetech.in
 *.telegram.org
