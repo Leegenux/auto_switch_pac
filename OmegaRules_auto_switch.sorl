@@ -116,9 +116,11 @@
 *.beloved-brands.com
 *.best-microcontroller-projects.com
 *.bg1lib.org
-*.bit.ly
+*.binstar-static-prod.s3.amazonaws.com
 *.bitcomet.com
 *.bitvise.com
+*.bit.ly
+*.bitwarden.com
 *.blackmagicdesign.com
 *.blockfi.com
 *.blogger.com
@@ -162,6 +164,7 @@
 *.chenjianhui.site
 *.chickenkiller.com
 *.chinagfw.org
+*.cisco.com
 *.citationmachine.net
 *.cl1lib.org
 *.clearlinux.org
@@ -207,6 +210,7 @@
 *.cyberciti.biz
 *.d19a1mtic3m6gl.cloudfront.net
 *.d2l.ai
+*.d3e54v103j8qbb.cloudfront.net
 *.d3njjcbhbojbot.cloudfront.net
 *.dailymail.co.uk
 *.daliansky.net
@@ -256,6 +260,7 @@
 *.ethz.ch
 *.ets.org
 *.ettus.com
+*.eurecom.fr
 *.facebook.com
 *.facebook.net
 *.fanbox.cc
@@ -279,6 +284,7 @@
 *.freebsd.org
 *.freedownloadmanager.org
 *.freenode.net
+*.freenom.com
 *.fritz.ai
 *.futurestud.io
 *.fygul.blogspot.com
@@ -308,6 +314,8 @@
 *.gnome-look.org
 *.gnome.org
 *.gnu.org
+*.go.dev
+*.googleadservices.com
 *.google-analytics.com
 *.google.ca
 *.google.co.id
@@ -391,6 +399,7 @@
 *.jekyllcn.com
 *.jetbrains.com
 *.jiveon.com
+*.jnn-pa.googleapis.com
 *.journaldev.com
 *.jp1lib.org
 *.jquery.com
@@ -399,6 +408,7 @@
 *.jsqpro.online
 *.jsqpro.xyz
 *.jueshifan.com
+*.justmysocks.net
 *.jvstar.cn
 *.jwpcdn.com
 *.jwplayer.com
@@ -438,6 +448,7 @@
 *.lk1lib.org
 *.lmms.io
 *.lncld.net
+*.loggly.com
 *.loginzlib2vrak5zzpcocc3ouizykn6k5qecgj2tzlnab5wcbqhembyd.onion
 *.loli.net
 *.lpsnmedia.net
@@ -505,6 +516,8 @@
 *.nodebb.org
 *.northwestern.edu
 *.notificationnewsspace.com
+*.notion.site
+*.notion.so
 *.nutgeek.com
 *.nuuvem.com
 *.nvidia.cn
@@ -655,6 +668,7 @@
 *.shields.io
 *.shtug.net
 *.shutterstock.com
+*.simplified.guide
 *.since1989.org
 *.singlelogin.app
 *.singlelogin.loc
@@ -680,6 +694,7 @@
 *.springer.com
 *.squarespace-cdn.com
 *.sru.edu
+*.sshwy.name
 *.ssr.tools
 *.sstatic.net
 *.st.com
@@ -688,6 +703,8 @@
 *.stanford.edu
 *.startpage.com
 *.statisticshowto.com
+*.statsig.com
+*.st.com
 *.steamcommunity.com
 *.steampowered.com
 *.steamstatic.com
@@ -709,6 +726,7 @@
 *.techopedia.com
 *.techoverflow.net
 *.tecmint.com
+*.teddysun.com
 *.teejeetech.com
 *.teejeetech.in
 *.telegra.ph
