@@ -48,6 +48,7 @@
 *.adobedtm.com
 *.adobeoobe.com
 *.ads-twitter.com
+*.afach.de
 *.airbrake.io
 *.ajax.googleapis.com
 *.aka.ms
@@ -117,12 +118,14 @@
 *.bg1lib.org
 *.bit.ly
 *.bitcomet.com
+*.bitvise.com
 *.blackmagicdesign.com
 *.blockfi.com
 *.blogger.com
 *.booksc.me
 *.booksc.org
 *.bootcss.com
+*.booth.pm
 *.bootstrapcdn.com
 *.boyeut.blogspot.com
 *.br1lib.org
@@ -135,6 +138,7 @@
 *.browserbench.org
 *.buffalo.edu
 *.businesstoday.com.tw
+*.bustle.com
 *.buzzfeed.com
 *.buzzorange.com
 *.byrut.org
@@ -194,6 +198,7 @@
 *.craig.global.ssl.fastly.net
 *.creativecommons.org
 *.crisp.chat
+*.criteo.com
 *.csp.withgoogle.com
 *.csrankings.org
 *.cuan.la
@@ -253,6 +258,7 @@
 *.ettus.com
 *.facebook.com
 *.facebook.net
+*.fanbox.cc
 *.fandom.com
 *.fanqiang.network
 *.fastly-insights.com
@@ -286,6 +292,7 @@
 *.ggpht.com
 *.gimyvod.com
 *.git-scm.com
+*.gitbooks.io
 *.github-production-release-asset-2e65be.s3.amazonaws.com
 *.github-render.s3.amazonaws.com
 *.github.blog
@@ -306,6 +313,7 @@
 *.google.co.id
 *.google.co.jp
 *.google.com
+*.google.com.*
 *.google.com.hk
 *.google.com.sg
 *.google.com.tw
@@ -322,6 +330,7 @@
 *.gravatar.com
 *.greasyfork.org
 *.gsma.com
+*.gsspcln.jp
 *.gstatic.com
 *.guru99.com
 *.haishan.me
@@ -329,6 +338,7 @@
 *.hcaptcha.com
 *.hegongshan.com
 *.hentaibar.com
+*.highlightcode.com
 *.hk01.com
 *.hk1lib.org
 *.hkinventory.com
@@ -355,6 +365,7 @@
 *.imag.fr
 *.imgur.com
 *.imhd.io
+*.infosecwriteups.com
 *.infoworld.com
 *.instagram.com
 *.intel.com
@@ -456,6 +467,7 @@
 *.megaup.net
 *.mellanox.com
 *.mengzelev.github.io
+*.microadinc.com
 *.microchip.com
 *.microchipdirect.com
 *.micron.com
@@ -492,6 +504,7 @@
 *.nocookie.net
 *.nodebb.org
 *.northwestern.edu
+*.notificationnewsspace.com
 *.nutgeek.com
 *.nuuvem.com
 *.nvidia.cn
@@ -499,6 +512,7 @@
 *.nxp.com
 *.nyt.com
 *.nytimes.com
+*.ocmhood.com
 *.office.com
 *.office.net
 *.office365.com
@@ -521,6 +535,7 @@
 *.optimole.com
 *.oracle.com
 *.org
+*.osano.com
 *.osuosl.org
 *.ou.edu
 *.overleaf.com
@@ -539,6 +554,7 @@
 *.photopea.com
 *.pincong.rocks
 *.pinterest.com
+*.pixiv.net
 *.pkgs.org
 *.platformio.org
 *.play0ad.com
@@ -560,12 +576,15 @@
 *.proxifier.com
 *.psu.edu
 *.psyma-rl.azurewebsites.net
+*.pub.network
 *.purechat.com
+*.pximg.net
 *.pyimagesearch.com
 *.pymotw.com
 *.python.org
 *.pythonanywhere.com
 *.pytorch.org
+*.qb-api.ltd
 *.qbox.me
 *.qiangwaikan.com
 *.qualtrics.com
@@ -574,6 +593,8 @@
 *.quora.com
 *.quoracdn.net
 *.qxf2.com
+*.r-tb.com
+*.r-tb.net
 *.rafaelglater.com
 *.raspi.tv
 *.ravenjs.com
@@ -593,12 +614,14 @@
 *.remnote.com
 *.remnote.io
 *.render.githubusercontent.com
+*.report-uri.com
 *.research.google
 *.researchgate.net
 *.retroarch.com
 *.revouninstaller.com
 *.rlcdn.com
 *.roamresearch.com
+*.rocketcdn.me
 *.rodsbooks.com
 *.root.moe
 *.rsms.me
@@ -626,6 +649,7 @@
 *.setn.com
 *.sg1lib.org
 *.sharelatex-wiki-cdn-671420.c.cdn77.org
+*.sharepointonline.com
 *.sharif.edu
 *.sharkychina.com
 *.shields.io
@@ -645,6 +669,7 @@
 *.snapchat.com
 *.snapeda.com
 *.socratic.org
+*.softwaretestinghelp.com
 *.sonyentertainmentnetwork.com
 *.sourceforge.net
 *.sourcegraph.com
@@ -673,7 +698,9 @@
 *.suo.tw
 *.superuser.com
 *.system76.com
+*.t.co
 *.t.me
+*.tabnine.com
 *.tailscale.com
 *.tamu.edu
 *.taxamo.com
@@ -696,8 +723,10 @@
 *.thispointer.com
 *.threatinfo.net
 *.tianyin.github.io
+*.tiktits.com
 *.tiktok.com
 *.time.com
+*.time.is
 *.timestamp.online
 *.tinyurl.com
 *.tiqcdn.com
@@ -712,6 +741,7 @@
 *.tumblr.com
 *.tutorialforlinux.com
 *.tutorialspoint.com
+*.tweettunnel.com
 *.twimg.com
 *.twitch.tv
 *.twitcount.com
@@ -741,6 +771,7 @@
 *.v2ex.com
 *.v2ray.com
 *.valvesoftware.com
+*.videosection.com
 *.viki.com
 *.vimeo.com
 *.vimsky.com
@@ -775,6 +806,7 @@
 *.wizards.com
 *.wizcase.com
 *.wolframcdn.com
+*.wordpress.com
 *.wordreference.com
 *.wowgirls.com
 *.wowmodels.com
@@ -794,6 +826,7 @@
 *.ytimg.com
 *.z-lib.org
 *.za1lib.org
+*.zagrosrobotics.com
 *.zdassets.com
 *.zendesk.com
 *.zerotier.com
