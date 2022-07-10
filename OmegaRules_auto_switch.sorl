@@ -1,8 +1,4 @@
-!*.126.net
-!*.mathpix.com
-!*.skype.com
-!*.squarespace.com
-!*.youdao.com
+
 !cn.overleaf.com
 *.01.org
 *.01001000.xyz
@@ -23,9 +19,11 @@
 *.1lib.net
 *.1lib.org
 *.1lib.ph
+*.1lib.to
 *.1lib.tw
 *.1lib.uk
 *.1point3acres.com
+*.1rx.io
 *.2007es.com
 *.2lib.org
 *.33across.com
@@ -37,9 +35,11 @@
 *.acer.com
 *.ackcdn.net
 *.activatorkeys.org
+*.ad.plus
 *.addtelegrammember.com
 *.addthis.com
 *.addtoany.com
+*.adlightning.com
 *.adnmb3.com
 *.adnxs.com
 *.adobe.com
@@ -48,6 +48,7 @@
 *.adobedtm.com
 *.adobeoobe.com
 *.ads-twitter.com
+*.adsafeprotected.com
 *.afach.de
 *.airbrake.io
 *.ajax.googleapis.com
@@ -77,6 +78,7 @@
 *.apkpure.com
 *.apmemory.com
 *.appinn.com
+*.apple.com
 *.ar1lib.org
 *.archlinux.org
 *.arkoselabs.com
@@ -105,6 +107,7 @@
 *.b-ok.asia
 *.b-ok.cc
 *.b-ok.global
+*.b-ok.xyz
 *.balena.io
 *.barnimages.com
 *.baseattackforce.com
@@ -117,15 +120,16 @@
 *.best-microcontroller-projects.com
 *.bg1lib.org
 *.binstar-static-prod.s3.amazonaws.com
+*.bit.ly
 *.bitcomet.com
 *.bitvise.com
-*.bit.ly
 *.bitwarden.com
 *.blackmagicdesign.com
 *.blockfi.com
 *.blogger.com
 *.booksc.me
 *.booksc.org
+*.bookshome.net
 *.bootcss.com
 *.booth.pm
 *.bootstrapcdn.com
@@ -133,6 +137,7 @@
 *.br1lib.org
 *.branch.io
 *.brave.com
+*.breached.to
 *.brianmadden.com
 *.brightcove.com
 *.brightcove.net
@@ -157,10 +162,12 @@
 *.ccleaner.com
 *.cdninstagram.com
 *.cdnjs.com
+*.cedexis-test.com
 *.cfrgtkky.blogspot.com
 *.chainer.org
 *.chegg.com
 *.cheggcdn.com
+*.chemboweix.life
 *.chenjianhui.site
 *.chickenkiller.com
 *.chinagfw.org
@@ -236,12 +243,15 @@
 *.dk1lib.org
 *.docker.com
 *.doi.org
+*.doubleclick.net
 *.doubleverify.com
+*.dpmsrv.com
 *.drhuang.com
 *.dropbox.com
 *.dropboxusercontent.com
 *.dtic.mil
 *.duckduckgo.com
+*.duioduose.life
 *.easyeda.com
 *.ebay.ie
 *.edx-cdn.org
@@ -254,6 +264,7 @@
 *.embedly.com
 *.embpcb.com
 *.encyclopedia.com
+*.engagement.ai
 *.epicgames.com
 *.epochtimes.com
 *.eslite.com
@@ -297,10 +308,12 @@
 *.getpocket.com
 *.ggpht.com
 *.gimyvod.com
+*.giphy.com
 *.git-scm.com
 *.gitbooks.io
 *.github-production-release-asset-2e65be.s3.amazonaws.com
 *.github-render.s3.amazonaws.com
+*.github-wiki-see.page
 *.github.blog
 *.github.com
 *.github.io
@@ -315,7 +328,7 @@
 *.gnome.org
 *.gnu.org
 *.go.dev
-*.googleadservices.com
+*.gofile.io
 *.google-analytics.com
 *.google.ca
 *.google.co.id
@@ -338,7 +351,9 @@
 *.gravatar.com
 *.greasyfork.org
 *.gsma.com
+*.gsspat.jp
 *.gsspcln.jp
+*.gssprt.jp
 *.gstatic.com
 *.guru99.com
 *.haishan.me
@@ -395,6 +410,8 @@
 *.iyfbodn.com
 *.iyfnzgb.com
 *.javbuff.top
+*.javhdporn.net
+*.javmost.com
 *.jedec.org
 *.jekyllcn.com
 *.jetbrains.com
@@ -428,6 +445,7 @@
 *.launchpadlibrarian.net
 *.lcsc.com
 *.lfai.foundation
+*.libsolutions.net
 *.licensebuttons.net
 *.line-scdn.net
 *.linearicons.com
@@ -451,6 +469,7 @@
 *.loggly.com
 *.loginzlib2vrak5zzpcocc3ouizykn6k5qecgj2tzlnab5wcbqhembyd.onion
 *.loli.net
+*.lpages.co
 *.lpsnmedia.net
 *.luarocks.org
 *.luminpdf.com
@@ -462,6 +481,7 @@
 *.mailerlite.com
 *.maker.pro
 *.maketecheasier.com
+*.makeuseof.com
 *.manictime.com
 *.manjaro.org
 *.maps.googleapis.com
@@ -496,9 +516,11 @@
 *.msecnd.net
 *.msftauth.net
 *.myfonts.net
+*.name.com
 *.namecheap.com
 *.namemc.com
 *.narkive.com
+*.nc-img.com
 *.nc.me
 *.netapp.com
 *.netdna-ssl.com
@@ -518,6 +540,8 @@
 *.notificationnewsspace.com
 *.notion.site
 *.notion.so
+*.npttech.com
+*.nr-data.net
 *.nutgeek.com
 *.nuuvem.com
 *.nvidia.cn
@@ -548,13 +572,16 @@
 *.optimole.com
 *.oracle.com
 *.org
+*.orientaldaily.com.my
 *.osano.com
 *.osuosl.org
 *.ou.edu
 *.overleaf.com
+*.pacificrack.com
 *.pageclip.co
 *.paperswithcode.com
 *.parastorage.com
+*.payatu.com
 *.pb1lib.org
 *.pclinuxos.com
 *.pcmarket.com.hk
@@ -585,6 +612,7 @@
 *.porsche.com
 *.porticomedia.com
 *.potato.im
+*.pothosware.com
 *.practicaldev-herokuapp-com.freetls.fastly.net
 *.proxifier.com
 *.psu.edu
@@ -668,6 +696,7 @@
 *.shields.io
 *.shtug.net
 *.shutterstock.com
+*.siam.org
 *.simplified.guide
 *.since1989.org
 *.singlelogin.app
@@ -704,7 +733,6 @@
 *.startpage.com
 *.statisticshowto.com
 *.statsig.com
-*.st.com
 *.steamcommunity.com
 *.steampowered.com
 *.steamstatic.com
@@ -731,6 +759,7 @@
 *.teejeetech.in
 *.telegra.ph
 *.telegram.org
+*.tenor.com
 *.tensorflow.org
 *.tesla.cn
 *.texteditor.co
@@ -756,9 +785,11 @@
 *.tracewind.net
 *.trackjs.com
 *.travis-ci.org
+*.trendmd.com
 *.tumblr.com
 *.tutorialforlinux.com
 *.tutorialspoint.com
+*.twblogs.net
 *.tweettunnel.com
 *.twimg.com
 *.twitch.tv
@@ -783,6 +814,7 @@
 *.unrealengine.com
 *.unsplash.com
 *.us-central1-firescript-577a2.cloudfunctions.net
+*.usa1lib.org
 *.usc.edu
 *.usersnap.com
 *.utteranc.es
@@ -806,6 +838,7 @@
 *.w3schools.com
 *.wallmama.com
 *.wcheinz.com
+*.webhostingtalk.com
 *.webtorrent.io
 *.whereby.com
 *.whereby.dev
@@ -830,18 +863,23 @@
 *.wowmodels.com
 *.wp.com
 *.www.googleapis.com
+*.xiaoyuasan.xyz
+*.xiguameitu.life
 *.xilinx.com
 *.xn--jprs12i.com
 *.xn--xhq59sifv02dwihz37d.com
 *.xvideos.com
 *.y2mate.com
 *.yadro.ru
+*.yahoo.co.jp
 *.yahoo.com
 *.yimg.com
+*.yimg.jp
 *.youporn.com
 *.youtube-nocookie.com
 *.youtube.com
 *.ytimg.com
+*.yuanana.xyz
 *.z-lib.org
 *.za1lib.org
 *.zagrosrobotics.com
@@ -854,4 +892,8 @@
 *.zoom.us
 *.zugaina.org
 *.zxh.site
+; Date: 7/10/2022
+; Require: SwitchyOmega >= 2.3.2
+; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
+[SwitchyOmega Conditions]
 ferenos.weebly.com
