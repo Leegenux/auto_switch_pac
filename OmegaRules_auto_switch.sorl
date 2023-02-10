@@ -1,8 +1,11 @@
 
+!*.clouddn.com
 !*.leegenux-pc
+!*.sinaimg.cn
 !cn.overleaf.com
 *.01.org
 *.01001000.xyz
+*.0cf.io
 *.1001freefonts.com
 *.10beasts.net
 *.128100.xyz
@@ -28,6 +31,7 @@
 *.2007es.com
 *.24fa.com
 *.2lib.org
+*.2mdn.net
 *.33across.com
 *.360yield.com
 *.3lib.net
@@ -42,9 +46,11 @@
 *.activatorkeys.org
 *.ad.gt
 *.ad.plus
+*.addresseepaper.com
 *.addtelegrammember.com
 *.addthis.com
 *.addtoany.com
+*.adisaktijrs.github.io
 *.adlightning.com
 *.adnmb3.com
 *.adnxs.com
@@ -56,6 +62,7 @@
 *.ads-twitter.com
 *.adsafeprotected.com
 *.adsco.re
+*.adsrvr.org
 *.adsymptotic.com
 *.afach.de
 *.afcdn.net
@@ -67,6 +74,7 @@
 *.akamaized.net
 *.akinator.com
 *.aldolipani.com
+*.alexametrics.com
 *.algolianet.com
 *.alicdn.com
 *.alldatasheet.net
@@ -81,7 +89,9 @@
 *.amazon.com
 *.amazonaws.com
 *.ambrevar.xyz
+*.amplitude.com
 *.ampproject.org
+*.andbeyond.media
 *.angms.science
 *.annikadeluxe.com
 *.anu.edu.au
@@ -218,6 +228,7 @@
 *.comodo.com
 *.componentsearchengine.com
 *.computerworld.com
+*.conda.io
 *.confiant-integrations.global.ssl.fastly.net
 *.consensu.org
 *.content.googleapis.com
@@ -230,6 +241,7 @@
 *.coveo.com
 *.crackpcsoft.net
 *.craig.global.ssl.fastly.net
+*.createjs.com
 *.creativecommons.org
 *.crisp.chat
 *.criteo.com
@@ -243,8 +255,12 @@
 *.cyberciti.biz
 *.d19a1mtic3m6gl.cloudfront.net
 *.d2l.ai
+*.d2tenqp6tr6mn3.cloudfront.net
+*.d2upsopxa63tyl.cloudfront.net
 *.d3e54v103j8qbb.cloudfront.net
 *.d3njjcbhbojbot.cloudfront.net
+*.d3rfn9cxeb1vh3.cloudfront.net
+*.d3uwbpt5u7agf0.cloudfront.net
 *.daemon-tools.cc
 *.dailymail.co.uk
 *.daliansky.net
@@ -255,14 +271,19 @@
 *.davheld.github.io
 *.dblp.org
 *.ddrk.me
+*.ddys.one
 *.de1lib.org
 *.debian.org
 *.deepl.com
 *.dictionary.com
 *.digitalocean.com
 *.digitaloceanspaces.com
+*.dirk-loss.de
 *.disconnect.me
 *.discord.com
+*.discord.gg
+*.discordapp.com
+*.discordapp.net
 *.discourse-cdn.com
 *.disqus.com
 *.disquscdn.com
@@ -272,6 +293,7 @@
 *.docker.com
 *.doi.org
 *.dongtidemi.com
+*.dotesports.com
 *.doubleclick.net
 *.doubleverify.com
 *.dpmsrv.com
@@ -289,6 +311,7 @@
 *.eevblog.com
 *.eg1lib.org
 *.einverne.info
+*.ekkles.com
 *.elnec.com
 *.ely.by
 *.embedly.com
@@ -303,6 +326,7 @@
 *.ettus.com
 *.eurecom.fr
 *.everesttech.net
+*.exdynsrv.com
 *.ezodn.com
 *.facebook.com
 *.facebook.net
@@ -341,9 +365,11 @@
 *.genymotion.com
 *.geogig.org
 *.getclicky.com
+*.geti2p.net
 *.getnitropack.com
 *.getpocket.com
 *.ggpht.com
+*.ghbtns.com
 *.gimyvod.com
 *.ginx.tv
 *.giphy.com
@@ -365,8 +391,10 @@
 *.gnome-look.org
 *.gnome.org
 *.gnu.org
+*.go-mpulse.net
 *.go.dev
 *.gofile.io
+*.golang.com.cn
 *.google-analytics.com
 *.google.ca
 *.google.co.id
@@ -401,6 +429,8 @@
 *.hbo.com
 *.hcaptcha.com
 *.hegongshan.com
+*.hegre-art.com
+*.hegre.com
 *.hentaibar.com
 *.heydouga.com
 *.highlightcode.com
@@ -415,6 +445,8 @@
 *.hotstar.com
 *.hotstarext.com
 *.howtogeek.com
+*.hpe.com
+*.hpefonts.s3.amazonaws.com
 *.hs-analytics.net
 *.hs-banner.com
 *.hs-scripts.com
@@ -429,14 +461,17 @@
 *.huggingface.co
 *.ibm.com
 *.ibruce.info
+*.icloudnative.io
 *.id5-sync.com
 *.idgesg.net
 *.ieee.org
+*.ikuuu.co
 *.illinois.edu
 *.iloveimg.com
 *.imag.fr
 *.imgur.com
 *.imhd.io
+*.indexww.com
 *.infolinks.com
 *.infopop.cc
 *.infosecwriteups.com
@@ -448,6 +483,7 @@
 *.intercom.io
 *.intercomcdn.com
 *.intertech.com
+*.intmath.com
 *.iobit.com
 *.ipfs.io
 *.ipredictive.com
@@ -506,10 +542,12 @@
 *.launchpadlibrarian.net
 *.lcsc.com
 *.lecun.com
+*.leegenux.github.io
 *.lfai.foundation
 *.libgen.li
 *.libsolutions.net
 *.licensebuttons.net
+*.lightboxcdn.com
 *.lijit.com
 *.line-scdn.net
 *.linearicons.com
@@ -526,6 +564,7 @@
 *.liquorix.net
 *.lithium.com
 *.live.com
+*.livechatinc.com
 *.livejasmin.com
 *.liveperson.net
 *.lk1lib.org
@@ -542,6 +581,7 @@
 *.lutris.net
 *.lwks.com
 *.lwn.net
+*.lz-cdn3.com
 *.machinelearningmastery.com
 *.macrumors.com
 *.mailerlite.com
@@ -551,6 +591,7 @@
 *.manictime.com
 *.manjaro.org
 *.maps.googleapis.com
+*.mathinsight.org
 *.mathjax.org
 *.mathtag.com
 *.mathworks.com
@@ -576,6 +617,7 @@
 *.minecraftforum.net
 *.mit.edu
 *.ml314.com
+*.moatpixel.com
 *.modiciaos.cloud
 *.mojang.com
 *.mouseflow.com
@@ -585,6 +627,7 @@
 *.msecnd.net
 *.msftauth.net
 *.msguides.com
+*.mxtoolbox.com
 *.mycard.moe
 *.myfonts.net
 *.name.com
@@ -633,18 +676,22 @@
 *.omatomeloanhikaku.com
 *.onenote.com
 *.oneplus.net
+*.onesignal.com
 *.onetag-sys.com
 *.onetrust.com
 *.onfido.com
+*.openai.com
 *.openbenchmarking.org
 *.opendns.com
 *.opensource.com
+*.opensource.google
 *.opensuse.org
 *.openx.net
 *.opstatics.com
 *.optimizely.com
 *.optimole.com
 *.oracle.com
+*.oray.com
 *.org
 *.orientaldaily.com.my
 *.osano.com
@@ -669,6 +716,7 @@
 *.phoronix.com
 *.photopea.com
 *.pincong.rocks
+*.pinimg.com
 *.pinterest.com
 *.pixiv.net
 *.pkgs.org
@@ -687,12 +735,15 @@
 *.pornzog.com
 *.porsche.cn
 *.porsche.com
+*.portforward.com
 *.porticomedia.com
 *.potato.im
 *.pothosware.com
 *.practicaldev-herokuapp-com.freetls.fastly.net
+*.primis.tech
 *.princeton.edu
 *.producthunt.com
+*.programiz.com
 *.proxifier.com
 *.psu.edu
 *.psyma-rl.azurewebsites.net
@@ -728,6 +779,8 @@
 *.realsrv.com
 *.realvnc.com
 *.recaptcha.net
+*.redbubble.com
+*.redbubble.net
 *.redd.it
 *.reddit.com
 *.redditmedia.com
@@ -745,6 +798,7 @@
 *.retroarch.com
 *.revouninstaller.com
 *.rfihub.com
+*.rightnowtech.com
 *.rlcdn.com
 *.roamresearch.com
 *.rocketcdn.me
@@ -753,6 +807,7 @@
 *.rosefile.net
 *.rsms.me
 *.ru1lib.org
+*.rubiconproject.com
 *.rutracker-org.appspot.com
 *.s-microsoft.com
 *.s-onetag.com
@@ -761,6 +816,7 @@
 *.saambaa.com
 *.sail-personalize.com
 *.samacsys.com
+*.sc-static.net
 *.scdn.co
 *.scene7.com
 *.sciencedirect.com
@@ -775,6 +831,7 @@
 *.semaan.ca
 *.sentry-cdn.com
 *.sentry.io
+*.servedby-buysellads.com
 *.serverfault.com
 *.setddg.com
 *.setn.com
@@ -793,12 +850,14 @@
 *.singlelogin.loc
 *.singlelogin.me
 *.singlelogin.org
+*.skimresources.com
 *.skylinewebcams.com
 *.skype.com
 *.slant.co
 *.slideshare.net
 *.smallpdf.com
 *.smartmontools.org
+*.smilewanted.com
 *.snapchat.com
 *.snapeda.com
 *.socratic.org
@@ -814,6 +873,7 @@
 *.springer.com
 *.squarespace-cdn.com
 *.sru.edu
+*.ssh.com
 *.sshwy.name
 *.ssr.tools
 *.sstatic.net
@@ -830,6 +890,7 @@
 *.steamstatic.com
 *.steemit.com
 *.stefanbauer.me
+*.streamable.com
 *.stripe.com
 *.stripe.network
 *.suo.tw
@@ -837,6 +898,7 @@
 *.superuser.com
 *.system76.com
 *.systutorials.com
+*.szukevin.site
 *.t.co
 *.t.me
 *.tabnine.com
@@ -844,6 +906,7 @@
 *.tamu.edu
 *.taxamo.com
 *.tdesktop.com
+*.techbang.com
 *.techgage.com
 *.techopedia.com
 *.techoverflow.net
@@ -876,6 +939,7 @@
 *.timo66.com
 *.tinyurl.com
 *.tiqcdn.com
+*.tomyjan.top
 *.tongliang-liu.github.io
 *.topg.org
 *.toronto.edu
@@ -916,6 +980,7 @@
 *.unrealengine.com
 *.unseenreport.com
 *.unsplash.com
+*.us-central1-adaptive-growth.cloudfunctions.net
 *.us-central1-firescript-577a2.cloudfunctions.net
 *.usa1lib.org
 *.usc.edu
@@ -924,6 +989,7 @@
 *.v2ex.com
 *.v2ray.com
 *.valvesoftware.com
+*.vercel.app
 *.videosection.com
 *.viki.com
 *.vimeo.com
@@ -943,6 +1009,7 @@
 *.wasoffspring.com
 *.wcheinz.com
 *.webhostingtalk.com
+*.webpushr.com
 *.webtorrent.io
 *.whereby.com
 *.whereby.dev
@@ -963,10 +1030,13 @@
 *.wolframcdn.com
 *.wordpress.com
 *.wordreference.com
+*.workers.dev
 *.wowgirls.com
 *.wowmodels.com
 *.wp.com
+*.wpadmngr.com
 *.www.googleapis.com
+*.xianlongok.site
 *.xiaoyuasan.xyz
 *.xiguameitu.life
 *.xilinx.com
@@ -989,6 +1059,7 @@
 *.za1lib.org
 *.zagrosrobotics.com
 *.zdassets.com
+*.zemanta.com
 *.zendesk.com
 *.zerotier.com
 *.zlibcdn.com
@@ -997,6 +1068,9 @@
 *.zoom.us
 *.zugaina.org
 *.zxh.site
+*.zztt15.com
+*.zztt47.com
+*.zztt87.com
 ; Date: 7/10/2022
 ; Require: SwitchyOmega >= 2.3.2
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
