@@ -1,6 +1,5 @@
 
-*.cn
-*.zaobao.com
+
 !*.0cf.io
 !*.2mdn.net
 !*.addresseepaper.com
@@ -157,6 +156,8 @@
 !*.zztt47.com
 !*.zztt87.com
 !bard.google.com
+*.cn
+*.zaobao.com
 *.126.net
 *.163.com
 *.18183.com
