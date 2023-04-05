@@ -1,4 +1,6 @@
 
+*.cn
+*.zaobao.com
 !*.0cf.io
 !*.2mdn.net
 !*.addresseepaper.com
