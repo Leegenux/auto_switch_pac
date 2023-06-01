@@ -1,3 +1,7 @@
+[SwitchyOmega Conditions]
+; Date: 3/18/2023
+; Require: SwitchyOmega >= 2.3.2
+; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
 !*.0cf.io
 !*.178.com
@@ -161,6 +165,7 @@
 *.163.com
 *.18183.com
 *.3.cn
+*.4399.com
 *.8684.cn
 *.aliapp.org
 *.alibaba.com
@@ -189,6 +194,7 @@
 *.csdn.net
 *.csgo.com.cn
 *.cuhk.edu.cn
+*.dayainfo.com
 *.dida365.com
 *.dingtalk.com
 *.effirst.com
@@ -218,6 +224,7 @@
 *.netease.com
 *.nga.cn
 *.ngabbs.com
+*.offcn.com
 *.oneplus.com
 *.pcl.ac.cn
 *.pwesports.cn
@@ -236,6 +243,7 @@
 *.tencentcs.com
 *.tmall.com
 *.uc.cn
+*.weibo.com
 *.weixinbridge.com
 *.xiaohongshu.com
 *.ydstatic.com
@@ -245,8 +253,5 @@
 *.zhimg.com
 *.zoom.com.cn
 192.168.31.1
-; Date: 3/18/2023
-; Require: SwitchyOmega >= 2.3.2
-; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
-[SwitchyOmega Conditions]
+UrlRegex: ://(192\.168\.|10\.|172\.(1[6-9]|2[0-9]|3[0-1])\.)
 sis.cuhk.edu.cn
